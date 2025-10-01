@@ -12,6 +12,8 @@ i love workinghard and working too much
 - [x] os
 - [x] json
 - [x] install windows
+- [x] opencv
+- [x] face recognition  
 
 **Education:**
 I entered Payam Noor University in 1401 and started my studies in the field of software engineering at the undergraduate level. During my studies, I have been able to gain valuable experiences in the field of computer science and exchange knowledge with experts and great professors in this field. to have
